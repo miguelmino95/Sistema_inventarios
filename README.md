@@ -8,10 +8,10 @@ Sistema capaz de registrar usuarios, activos, departamentos, personal, responsab
 agilizar y documentar todo proceso referente a los activos fijos de la institución 
 
 #Integrantes
-Miguel Miño
-Elvira alvarado
-Gabriela Castro
-Ivanna Alcívar
+*Miguel Miño
+*Elvira alvarado
+*Gabriela Castro
+*Ivanna Alcívar
 
 #Tutor
 Ing. Luis Viteri
